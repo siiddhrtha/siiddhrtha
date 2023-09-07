@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **siddhartharout285@gmail.com**
 
-- 📄 [Know about my experiences](https://drive.google.com/file/d/1bjp40f1upR6pOd6WKgqTMcpUkpMvNIK5/view?usp=drive_link) 
+- 📄 [Know about my experiences](https://drive.google.com/file/d/1bjp40f1upR6pOd6WKgqTMcpUkpMvNIK5/view?usp=sharing) 
 
 - ⚡ Fun fact **The hobby that I could never give up is cooking.**
 
