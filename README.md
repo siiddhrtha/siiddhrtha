@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋 I'm Siddhartha Suman Rout</h1>
 <h3 align="center">A passionate Information Security Engineer from India.</h3>
 
-<img align="right" alt="coding" width ="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=siiddhrtha&color=green" alt="siiddhrtha" /> </p>
+<img align="right" alt="coding" width ="400" src="https://media1.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif?cid=ecf05e47aygmhk985ii3ium068sstpuwrl1zzd1p483vvbmw&ep=v1_gifs_related&rid=giphy.gif&ct=g">
 
 
-- 🔭 I’m currently working on [Botnet attacks on IoT devices]
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=siiddhrtha&color=green" alt="siiddhrtha"/> </p>
+
+
+- 🔭 I’m currently working on Botnet attacks on IoT devices
 
 - 🌱 I’m currently learning **Computer Application Security**
 
