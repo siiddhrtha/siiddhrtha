@@ -7,9 +7,9 @@
 
 
 
-- 🔭 I’m currently working on [Multiclass Malware Analysis](https://github.com/siiddhrtha/MNIST-Multiclass-Malware-Analysis)
+- 🔭 I’m currently working on [Botnet attacks on IoT devices]
 
-- 🌱 I’m currently learning **Malware Forensics Analysis**
+- 🌱 I’m currently learning **Computer Application Security**
 
 - 👨‍💻 All of my projects are available at [https://siiddhrtha.github.io/My-Portfolio/work.html](https://siiddhrtha.github.io/My-Portfolio/work.html)
 
