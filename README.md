@@ -3,7 +3,7 @@
 
 <img align="right" alt="coding" width ="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=siiddhrtha&label=PROFILE+VIEWS" alt="siiddhrtha" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=siiddhrtha&color=green" alt="siiddhrtha" /> </p>
 
 
 - 🔭 I’m currently working on [Botnet attacks on IoT devices]
